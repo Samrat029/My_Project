@@ -1,0 +1,25 @@
+
+>>>  DB_DWS_Code_Challenge Completion Details...
+
+
+> Created a class TranferMoney.java  in domain package.
+
+> Created two Exception classes (AccountDoesNotExist,InsufficientBalance) in Exception Package.
+
+> Created a interface SenderRecieverNotification and declared two method (notifiedToSender, notifiedToReciever)
+
+> Created a Service SenderRecieverNotificationService which implements SenderRecieverNotificationInterface and extends EmailNotificationService
+
+  to use method (notifiedAboutTransfer)
+
+> Called Service methods in AccountController.java
+
+> Used Postman to Check response of post n get requests
+
+> Created a test class ServiceRecieverNotificationTest.java 
+
+> added test cases in AccountControllerTest.java
+
+
+
+
